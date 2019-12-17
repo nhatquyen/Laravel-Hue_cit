@@ -1,6 +1,6 @@
 # Laravel-Hue_cit
 
-Sau khi clone code về chúng ta chạy lệnh ,
+Sau khi clone code về chúng ta chạy lệnh
 composer install để cài đặt vendor vào trong dự án,
 chạy xong ta copy file .env bằng lệnh cp .env.example .env,,
 căn chỉnh cấu hình của database trong file env rồi chạy php artisan key:generate,
